@@ -1,0 +1,21 @@
+.profile {
+  text-align: center;  /* Centers the image and text */
+}
+
+.profile-pic {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;  /* Makes the image round */
+  object-fit: cover;   /* Ensures the image is properly cropped to fit in the circle */
+  margin-bottom: 10px; 
+}
+
+h1 {
+  font-size: 24px;
+  margin: 0;
+}
+
+a {
+  text-decoration: none; 
+  color: inherit;        /* Inherits color of the surrounding text */
+}
