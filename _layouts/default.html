@@ -15,8 +15,11 @@
   <body>
     <div class="wrapper">
       <header>
-        <img src="/assests/img/kaia.jpg" alt="my profile pic" width: 150px; border-radius: 50%>
-        <h1><a Xiaofu (Kaia) Li}</a></h1>
+        <div class="profile">
+          <img src="/assets/img/kaia.jpg" alt="my profile pic" class="profile-pic">
+          <h1><a href="#">Xiaofu (Kaia) Li</a></h1>
+        </div>
+
 
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
