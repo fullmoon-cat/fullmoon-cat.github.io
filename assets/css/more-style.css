@@ -1,6 +1,6 @@
 header {
   width:200px;
-  float:left;
+  float:top;
   text-align: center;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
