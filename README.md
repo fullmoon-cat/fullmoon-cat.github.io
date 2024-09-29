@@ -12,4 +12,5 @@ under construction
 - My Chinese name Xiaofu（晓拂）means "gentle touch of dawn"
 - In my free time, I enjoy climbing, running, and reading classical Chinese literature or history documents.
 - My friends describe me as a border collie.
+
 ![image](/assets/img/border-collie.jpg)
