@@ -1,9 +1,17 @@
+header {
+  width:200px;
+  float:left;
+  text-align: center;
+  position:fixed;
+  -webkit-font-smoothing:subpixel-antialiased;
+}
+
 .profile {
   text-align: center;  /* Centers the image and text */
 }
 
 .profile-pic {
-  width: 200px;
+  width: 180px;
   height: 200px;
   border-radius: 50%;  /* Makes the image round */
   object-fit: cover;   /* Ensures the image is properly cropped to fit in the circle */
