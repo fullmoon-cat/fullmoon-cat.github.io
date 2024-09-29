@@ -1,3 +1,10 @@
+header {
+  width:220px;
+  float:left;
+  position:fixed;
+  -webkit-font-smoothing:subpixel-antialiased;
+}
+
 .profile {
   text-align: center;  /* Centers the image and text */
 }
@@ -10,9 +17,11 @@
   margin-bottom: 10px; 
 }
 
-header {
-  width:220px;
-  float:left;
-  position:fixed;
-  -webkit-font-smoothing:subpixel-antialiased;
+.links a {
+  text-decoration: none; /* Remove underline from links */
+  color: #007bff;       /* Set link color */
+}
+
+.links a:hover {
+  text-decoration: underline; /* Underline on hover for better UX */
 }
