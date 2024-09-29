@@ -9,3 +9,10 @@
   object-fit: cover;   /* Ensures the image is properly cropped to fit in the circle */
   margin-bottom: 10px; 
 }
+
+header {
+  width:220px;
+  float:left;
+  position:fixed;
+  -webkit-font-smoothing:subpixel-antialiased;
+}
