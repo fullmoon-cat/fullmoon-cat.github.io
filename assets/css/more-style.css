@@ -19,21 +19,20 @@ section {
 } */
 
 /* When the screen/window width is 1024px or less */
-/* @media (max-width: 1024px) { */
-.wrapper {
-  flex-direction: column;  /* Stacks elements vertically */
-  flex-wrap: nowrap;
-}
+@media (max-width: 1024px) {
+  .wrapper {
+    flex-direction: column;  /* Stacks elements vertically */
+    flex-wrap: nowrap;
+  }
 
-header, section {
-  width: 100%;  /* Both take up full width */
-  max-width: 1024px;
-}
+  header, section {
+    width: 100%;  /* Both take up full width */
+  }
 
-header {
-  text-align: center;  /* Center the header content */
+  header {
+    text-align: center;  /* Center the header content */
+  }
 }
-/* } */
 
 .profile {
   text-align: center;  /* Centers the image and text */
