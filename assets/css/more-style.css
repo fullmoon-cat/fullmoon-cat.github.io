@@ -11,7 +11,7 @@ header {
 }
 
 .profile-pic {
-  width: 180px;
+  width: 200px;
   height: 200px;
   border-radius: 50%;  /* Makes the image round */
   object-fit: cover;   /* Ensures the image is properly cropped to fit in the circle */
