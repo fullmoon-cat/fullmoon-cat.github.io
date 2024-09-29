@@ -17,6 +17,7 @@ section {
 @media (max-width: 1024px) {
   .wrapper {
     flex-direction: column;  /* Stacks elements vertically */
+    flex-wrap: nowrap;
   }
 
   header, section {
