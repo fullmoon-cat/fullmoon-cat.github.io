@@ -4,9 +4,6 @@ header {
   text-align: center;
   position:fixed;
 }
-section {
-  width: 75%;
-}
 
 /* When the screen/window width is 1024px or less */
 @media (max-width: 1536px) {
