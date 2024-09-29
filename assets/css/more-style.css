@@ -1,6 +1,7 @@
 .wrapper {
   display: flex;
   flex-direction: row;  /* Side by side layout */
+  flex-wrap: nowrap;
 }
 
 header {
