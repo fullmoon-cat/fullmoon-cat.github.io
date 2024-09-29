@@ -11,7 +11,7 @@ I've tried out a few different research projects since my frosh year. I'm gratef
 **Applications of formal explanations of neural networks**
 
 **Identifying cell type specific markers in mouse cochlea** \
-I worked in [Dr. Cheng's Lab](https://med.stanford.edu/achenglab.html) under the guidance of Sara Billings. I used R to process single-cell RNA sequencing data and identified novel gene markers for different cell types in regenerated mouse cochlea.
+I worked in [Dr. Cheng's Lab](https://med.stanford.edu/achenglab.html) under the guidance of Sara Billings. I used R to process single-cell RNA sequencing data and identified novel gene markers for different cell types in regenerated mouse cochlea. <a src="/assets/posters/scRNA_seq_poster.pdf" target="_blank">[Poster]</a> [\[Poster\]](/assets/posters/scRNA_seq_poster.pdf)
 
 ## Teaching
 [Sept 2024-Present] CS 103 Course Assistant \
