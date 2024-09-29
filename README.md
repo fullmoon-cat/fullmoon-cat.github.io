@@ -5,7 +5,9 @@ I'm currently in my fourth year at Stanford University pursuing my BS in compute
 under construction
 
 ## Teaching
-under construction
+[Sept 2024-Present] CS 103 Course Assistant \
+[Jan 2023-Aug 2024] CS 106A/B/AX Section Leader \
+[Nov 2021-Jun 2023] CS + Social Good education outreach team member
 
 ## Random Facts
 - I'm from northeastern China and have lived in many places in the world.
