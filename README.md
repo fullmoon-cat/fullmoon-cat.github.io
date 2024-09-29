@@ -1,8 +1,17 @@
 ## About Me
 I'm currently in my fourth year at Stanford University pursuing my BS in computer science (theory) and MS in electrical engineering (hardware & software systems). Taking advantage of the abundant undergraduate research opportunities and becoming a section leader are the two best things I've done at Stanford. I want to be doing research and teaching for a long time in my life.
 
+I'm currently working on research in computer architecture formal verification and being a course assistant for CS 103: Mathematical Foundations of Computing.
+
 ## Research
-under construction
+I've tried out a few different research projects since my frosh year. I'm grateful for all of my mentors and peers who supported me in this journey of exploration.
+
+**Synthesizing formal execution contracts from RTL design**
+
+**Applications of formal explanations of neural networks**
+
+**Identifying cell type specific markers in mouse cochlea** \
+I worked in [Dr. Cheng's Lab](https://med.stanford.edu/achenglab.html) under the guidance of Sara Billings. I used R to process single-cell RNA sequencing data and identified novel gene markers for different cell types in regenerated mouse cochlea.
 
 ## Teaching
 [Sept 2024-Present] CS 103 Course Assistant \
