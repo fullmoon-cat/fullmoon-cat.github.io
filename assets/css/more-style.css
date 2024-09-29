@@ -26,3 +26,17 @@ header {
 .links a:hover {
   text-decoration: underline; /* Underline on hover for better UX */
 }
+
+@media (max-width: 768px) {
+  .wrapper {
+    flex-direction: column;
+  }
+
+  header, section {
+    width: 100%; 
+  }
+
+  header {
+    text-align: center;
+  }
+}
