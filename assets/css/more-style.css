@@ -1,11 +1,5 @@
-header {
-  width: 200px;
-  float: left;
-  text-align: center;
-  position:fixed;
-}
 section {
-  width: 75%;
+  width: 70%;
 }
 
 @media (max-width: 1200) {
