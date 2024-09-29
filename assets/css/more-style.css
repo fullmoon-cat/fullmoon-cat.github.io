@@ -6,9 +6,10 @@
 }
 
 header {
-  width: 25%;  /* Header takes up 25% of the width */
-  padding: 10px;
-  box-sizing: border-box; /* Ensures padding is included in the total width */
+  width: 200px;
+  float: top;
+  text-align: center;
+  position:fixed;
 }
 
 section {
