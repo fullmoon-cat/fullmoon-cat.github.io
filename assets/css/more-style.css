@@ -1,9 +1,31 @@
+.wrapper {
+  display: flex;
+  flex-direction: row;  /* Side by side layout */
+}
+
 header {
-  width:200px;
-  float:top;
-  text-align: center;
-  position:fixed;
-  -webkit-font-smoothing:subpixel-antialiased;
+  width: 25%;  /* Header takes up 25% of the width */
+  padding: 20px;
+}
+
+section {
+  width: 75%;  /* Section takes up the rest of the width */
+  padding: 20px;
+}
+
+/* When the screen/window width is 1024px or less */
+@media (max-width: 1024px) {
+  .wrapper {
+    flex-direction: column;  /* Stacks elements vertically */
+  }
+
+  header, section {
+    width: 100%;  /* Both take up full width */
+  }
+
+  header {
+    text-align: center;  /* Center the header content */
+  }
 }
 
 .profile {
@@ -25,18 +47,4 @@ header {
 
 .links a:hover {
   text-decoration: underline; /* Underline on hover for better UX */
-}
-
-@media (max-width: 768px) {
-  .wrapper {
-    flex-direction: column;
-  }
-
-  header, section {
-    width: 100%; 
-  }
-
-  header {
-    text-align: center;
-  }
 }
