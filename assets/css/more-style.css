@@ -1,8 +1,8 @@
-.wrapper {
+/* .wrapper {
   display: flex;
-  flex-direction: row;  /* Side-by-side layout */
-  flex-wrap: nowrap;    /* Ensures no wrapping */
-  align-items: flex-start; /* Aligns items to the top */
+  flex-direction: row;  
+  flex-wrap: nowrap;    
+  align-items: flex-start; 
 }
 
 header {
@@ -13,26 +13,27 @@ header {
 }
 
 section {
-  width: 75%;  /* Section takes up 75% of the width */
+  width: 75%;  
   padding: 10px;
-  box-sizing: border-box; /* Ensures padding is included in the total width */
-}
+  box-sizing: border-box; 
+} */
 
 /* When the screen/window width is 1024px or less */
-@media (max-width: 1024px) {
-  .wrapper {
-    flex-direction: column;  /* Stacks elements vertically */
-    flex-wrap: nowrap;
-  }
-
-  header, section {
-    width: 100%;  /* Both take up full width */
-  }
-
-  header {
-    text-align: center;  /* Center the header content */
-  }
+/* @media (max-width: 1024px) { */
+.wrapper {
+  flex-direction: column;  /* Stacks elements vertically */
+  flex-wrap: nowrap;
 }
+
+header, section {
+  width: 100%;  /* Both take up full width */
+  max-width: 1024px;
+}
+
+header {
+  text-align: center;  /* Center the header content */
+}
+/* } */
 
 .profile {
   text-align: center;  /* Centers the image and text */
