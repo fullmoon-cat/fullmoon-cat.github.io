@@ -1,3 +1,8 @@
+.wrapper {
+  width:600px;
+  margin:0 auto;
+}
+
 .profile {
   text-align: center;  /* Centers the image and text */
 }
