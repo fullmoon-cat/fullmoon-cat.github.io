@@ -1,7 +1,3 @@
-section {
-  width: 70%;
-}
-
 @media (max-width: 1200) {
   .wrapper {
     flex-direction: column;  /* Stacks elements vertically */
