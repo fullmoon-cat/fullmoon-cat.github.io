@@ -1,2 +1,12 @@
 # fullmoon-cat.github.io
-Under construction
+
+## About Me
+blurbs
+
+## Research
+blah blah
+
+## Teaching
+blah blah
+
+## Random
