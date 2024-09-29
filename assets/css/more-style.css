@@ -1,25 +1,15 @@
-/* .wrapper {
-  display: flex;
-  flex-direction: row;  
-  flex-wrap: nowrap;    
-  align-items: flex-start; 
-}
-
 header {
   width: 200px;
-  float: top;
+  float: left;
   text-align: center;
   position:fixed;
 }
-
 section {
-  width: 75%;  
-  padding: 10px;
-  box-sizing: border-box; 
-} */
+  width: 75%;
+}
 
 /* When the screen/window width is 1024px or less */
-@media (max-width: 1024px) {
+@media (max-width: 1536px) {
   .wrapper {
     flex-direction: column;  /* Stacks elements vertically */
     flex-wrap: nowrap;
