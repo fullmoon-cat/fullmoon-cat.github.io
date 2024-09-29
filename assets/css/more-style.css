@@ -1,5 +1,14 @@
-/* When the screen/window width is 1024px or less */
-@media (max-width: 1536px) {
+header {
+  width: 200px;
+  float: left;
+  text-align: center;
+  position:fixed;
+}
+section {
+  width: 75%;
+}
+
+@media (max-width: 1200) {
   .wrapper {
     flex-direction: column;  /* Stacks elements vertically */
     flex-wrap: nowrap;
